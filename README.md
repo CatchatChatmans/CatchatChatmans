@@ -15,7 +15,7 @@
 
 
 <!--<h3 align="left">Languages and Tools:</h3>-->
-<h1 align="center">
+<h3 align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/></a> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/></a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/></a> 
@@ -37,7 +37,7 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img align="center" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/></a>
   <a href="https://krita.org/en/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Krita_Application_Logo.svg" alt="Krita" width="50" height="50"/></a> 
   <a href="https://www.olivevideoeditor.org/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Olive_Video_Editor_Logo.png" alt="Olive" width="50" height="50"/></a> 
-</p>
+</h3>
 
 <br />
 
@@ -62,9 +62,7 @@
   <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="20" height="20"/> </a> 
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="20" height="20"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/> </a> 
-</h1>
-
-
+</p>
 
 
 
