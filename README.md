@@ -2,6 +2,8 @@
 <h3 align="center">Software Engineer by day. &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; VR Map creator by night!</h3>
 
 
+<br />
+<br />
 
 
 ```
@@ -91,21 +93,30 @@
 
 <br />
 <br />
+<br />
+<br />
 
 
 <p align="left"> 
-  <a href="https://twitter.com/catchatchatmans" target="blank"><img src="https://img.shields.io/twitter/follow/catchatchatmans?logo=twitter&color=03a9f4&style=flat-square" alt="catchatchatmans" /></a> 
+  <a href="https://posnicantoine.pro/" target="blank"><img src="https://img.shields.io/twitter/follow/catchatchatmans?logo=twitter&color=03a9f4&style=flat-square" alt="catchatchatmans" /></a> 
   <img src="https://komarev.com/ghpvc/?username=posnicantoine&label=Profile%20views&color=03a9f4&style=flat-square" alt="posnicantoine" /> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 <p align="left">
   <a href="https://twitter.com/catchatchatmans" target="blank"><img align="center" src="https://www.pngkey.com/png/full/167-1670247_white-globe-icon-png-holy-bible-new-international.png" alt="Website" height="40" width="40" /></a>
 &ensp;
-  <a href="https://twitter.com/catchatchatmans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="catchatchatmans" height="40" width="40" /></a>
+  <a href="https://twitter.com/catchatchatmans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a>
 &ensp;
-  <a href="https://www.youtube.com/c/ucskusz17pfavnmmhhc5k27w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucskusz17pfavnmmhhc5k27w" height="40" width="40" /></a>
+  <a href="https://www.patreon.com/mixandchat" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg" alt="Patreon" height="40" width="40" /></a>
 &ensp;
-  <a href="https://discord.gg/Chatmans#3355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Chatmans#3355" height="40" width="40" /></a>
-</p>
+  <a href="https://www.linkedin.com/in/antoine-posnic-17a556173/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Linkedin" height="40" width="40" /></a>
+&ensp;
+  <a href="https://www.twitch.tv/chatmans" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" alt="Twitch" height="40" width="40" /></a>
+&ensp;
+  <a href="https://www.youtube.com/c/ucskusz17pfavnmmhhc5k27w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="40" width="40" /></a>
+&ensp;
+  <a href="https://discord.gg/Chatmans#3355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" /></a>
+&ensp;
+</p
 
