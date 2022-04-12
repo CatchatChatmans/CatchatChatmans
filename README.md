@@ -2,8 +2,11 @@
 <h3 align="center">A Software Engineer by day and VR Map creator by night!</h3>
 <h2 align="center">
 (\.(\  Hi!
+  
 (=':')/
+  
 (,(")(")
+  
 </h2>
 
 <p align="right"> 
