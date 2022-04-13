@@ -98,13 +98,13 @@
 
 
 <p align="left"> 
-  <a href="https://posnicantoine.pro/" target="blank"><img src="https://img.shields.io/twitter/follow/catchatchatmans?logo=twitter&color=03a9f4&style=flat-square" alt="catchatchatmans" /></a> 
+  <a href="https://twitter.com/catchatchatmans" target="blank"><img src="https://img.shields.io/twitter/follow/catchatchatmans?logo=twitter&color=03a9f4&style=flat-square" alt="catchatchatmans" /></a> 
   <img src="https://komarev.com/ghpvc/?username=posnicantoine&label=Profile%20views&color=03a9f4&style=flat-square" alt="posnicantoine" /> 
 </p>
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/catchatchatmans" target="blank"><img align="center" src="https://www.pngkey.com/png/full/167-1670247_white-globe-icon-png-holy-bible-new-international.png" alt="Website" height="40" width="40" /></a>
+  <a href="https://posnicantoine.pro/" target="blank"><img align="center" src="https://www.pngkey.com/png/full/167-1670247_white-globe-icon-png-holy-bible-new-international.png" alt="Website" height="40" width="40" /></a>
 &ensp;
   <a href="https://twitter.com/catchatchatmans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a>
 &ensp;
