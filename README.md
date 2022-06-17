@@ -114,7 +114,7 @@
 &ensp;
   <a href="https://www.twitch.tv/chatmans" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" alt="Twitch" height="40" width="40" /></a>
 &ensp;
-  <a href="https://www.youtube.com/c/ucskusz17pfavnmmhhc5k27w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="40" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCSKUSz17PFavNmmhhc5K27w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="40" width="40" /></a>
 &ensp;
   <a href="https://discord.gg/Chatmans#3355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" /></a>
 &ensp;
