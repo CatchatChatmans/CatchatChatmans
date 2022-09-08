@@ -110,8 +110,8 @@
 &ensp;
 <!--
   <a href="https://www.patreon.com/mixandchat" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Patreon_logo.svg" alt="Patreon" height="40" width="40" /></a>
--->
 &ensp;
+-->
   <a href="https://www.linkedin.com/in/antoine-posnic-17a556173/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Linkedin" height="40" width="40" /></a>
 &ensp;
   <a href="https://www.twitch.tv/chatmans" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Twitch_Glitch_Logo_Purple.svg" alt="Twitch" height="40" width="40" /></a>
