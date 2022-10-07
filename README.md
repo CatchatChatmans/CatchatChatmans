@@ -34,7 +34,7 @@
 &ensp;
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img align="center" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/></a>
   <a href="https://krita.org/en/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Krita_Application_Logo.svg" alt="Krita" width="50" height="50"/></a> 
-  <a href="https://www.olivevideoeditor.org/" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/langfr-1024px-DaVinci_Resolve_17_logo.svg.png" alt="Davinci" width="50" height="50"/></a> 
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DaVinci_Resolve_17_logo.svg/langfr-1024px-DaVinci_Resolve_17_logo.svg.png" alt="Davinci" width="50" height="50"/></a> 
 </h3>
 
 <br />
