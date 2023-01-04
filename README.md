@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Chatmans</h1>
-<h3 align="center">Software Engineer by day. &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; VR Map creator by night!</h3>
+<h3 align="center">Software Engineer by day. &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; VR creator by night!</h3>
 
 
 <br />
