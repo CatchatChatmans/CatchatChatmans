@@ -72,24 +72,24 @@
 <br />
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=posnicantoine&theme=dracula&column=4&margin-w=20&margin-h=20" alt="posnicantoine" /></a> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=catchatchatmans&theme=dracula&column=4&margin-w=20&margin-h=20" alt="catchatchatmans" /></a> 
 </p>
 
 <!--
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=posnicantoine&count_private=true&show_icons=true&theme=radical&title_color=ff79c6&hide_border=true&locale=en&layout=compact" alt="posnicantoine" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=catchatchatmans&count_private=true&show_icons=true&theme=radical&title_color=ff79c6&hide_border=true&locale=en&layout=compact" alt="catchatchatmans" />
 </p>
 -->
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=posnicantoine&count_private=true&show_icons=true&theme=radical&title_color=ff79c6&bg_color=282A36&border_color=E1E4E8&locale=en" alt="posnicantoine" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=catchatchatmans&count_private=true&show_icons=true&theme=radical&title_color=ff79c6&bg_color=282A36&border_color=E1E4E8&locale=en" alt="catchatchatmans" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=posnicantoine&theme=radical&background=282A36&border=E1E4E8&sideLabels=A9FEF7&sideNums=A9FEF7&currStreakNum=A9FEF7&stroke=141321&ring=ff79c6&fire=ff79c6&currStreakLabel=A9FEF7&dates=ff79c6" alt="posnicantoine" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=catchatchatmans&theme=radical&background=282A36&border=E1E4E8&sideLabels=A9FEF7&sideNums=A9FEF7&currStreakNum=A9FEF7&stroke=141321&ring=ff79c6&fire=ff79c6&currStreakLabel=A9FEF7&dates=ff79c6" alt="catchatchatmans" />
 </p>
 
-<!--My [Website](https://posnicantoine.pro/)-->
+<!--My [Website](https://caitposnic.pro/)-->
 
 <br />
 <br />
@@ -99,7 +99,7 @@
 
 <p align="left"> 
   <a href="https://twitter.com/catchatchatmans" target="blank"><img src="https://img.shields.io/twitter/follow/catchatchatmans?logo=twitter&color=03a9f4&style=flat-square" alt="catchatchatmans" /></a> 
-  <img src="https://komarev.com/ghpvc/?username=posnicantoine&label=Profile%20views&color=03a9f4&style=flat-square" alt="posnicantoine" /> 
+  <img src="https://komarev.com/ghpvc/?username=catchatchatmans&label=Profile%20views&color=03a9f4&style=flat-square" alt="catchatchatmans" /> 
 </p>
 
 <h3 align="left">Contact with me:</h3>
