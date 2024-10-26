@@ -108,6 +108,8 @@
 &ensp;
   <a href="https://twitter.com/catchatchatmans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a>
 &ensp;
+  <a href="https://bsky.app/profile/chatmans.pro" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky" height="40" width="40" /></a>
+&ensp;
   <a href="https://ko-fi.com/chatmans" target="blank"><img align="center" src="https://uploads-ssl.webflow.com/5c14e387dab576fe667689cf/61e1116779fc0a9bd5bdbcc7_Frame%206.png" alt="Ko-fi" height="40" width="40" /></a>
 &ensp;
 <!--
