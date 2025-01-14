@@ -89,7 +89,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=catchatchatmans&theme=radical&background=282A36&border=E1E4E8&sideLabels=A9FEF7&sideNums=A9FEF7&currStreakNum=A9FEF7&stroke=141321&ring=ff79c6&fire=ff79c6&currStreakLabel=A9FEF7&dates=ff79c6" alt="catchatchatmans" />
 </p>
 
-<!--My [Website](https://caitposnic.pro/)-->
+<!--My [Website](https://catposnic.pro/)-->
 
 <br />
 <br />
@@ -104,7 +104,7 @@
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-  <a href="https://linktr.ee/CatchatChatmans" target="blank"><img align="center" src="https://seeklogo.com/images/L/linktree-logo-6FC3ADB679-seeklogo.com.png" alt="Website" height="40" width="40" /></a>
+  <a href="https://linktr.ee/CatchatChatmans" target="blank"><img align="center" src="https://assets.production.linktr.ee/profiles/_next/static/logo-assets/favicon-96x96.png" alt="Website" height="40" width="40" /></a>
 &ensp;
   <a href="https://twitter.com/catchatchatmans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a>
 &ensp;
