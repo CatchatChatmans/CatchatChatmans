@@ -98,7 +98,8 @@
 
 
 <p align="left"> 
-  <a href="https://twitter.com/catchatchatmans" target="blank"><img src="https://img.shields.io/twitter/follow/catchatchatmans?logo=twitter&color=03a9f4&style=flat-square" alt="catchatchatmans" /></a> 
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/CatchatChatmans?color=03a9f4&style=for-the-badge&logo=github&label=Follow"/>
+  <!--<a href="https://twitter.com/catchatchatmans" target="blank"><img src="https://img.shields.io/twitter/follow/catchatchatmans?logo=twitter&color=03a9f4&style=flat-square" alt="catchatchatmans" /></a>-->
   <img src="https://komarev.com/ghpvc/?username=catchatchatmans&label=Profile%20views&color=03a9f4&style=flat-square" alt="catchatchatmans" /> 
 </p>
 
