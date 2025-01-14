@@ -85,9 +85,11 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=catchatchatmans&count_private=true&show_icons=true&theme=radical&title_color=ff79c6&bg_color=282A36&border_color=E1E4E8&locale=en" alt="catchatchatmans" />
 </p>
 
+<!--
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=catchatchatmans&theme=radical&background=282A36&border=E1E4E8&sideLabels=A9FEF7&sideNums=A9FEF7&currStreakNum=A9FEF7&stroke=141321&ring=ff79c6&fire=ff79c6&currStreakLabel=A9FEF7&dates=ff79c6" alt="catchatchatmans" />
 </p>
+-->
 
 <!--My [Website](https://catposnic.pro/)-->
 
@@ -98,7 +100,7 @@
 
 
 <p align="left"> 
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/CatchatChatmans?color=03a9f4&style=for-the-badge&logo=github&label=Follow"/>
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/CatchatChatmans?color=03a9f4&style=for-the-badge&logo=github&label=Follow" height="20"/>
   <!--<a href="https://twitter.com/catchatchatmans" target="blank"><img src="https://img.shields.io/twitter/follow/catchatchatmans?logo=twitter&color=03a9f4&style=flat-square" alt="catchatchatmans" /></a>-->
   <img src="https://komarev.com/ghpvc/?username=catchatchatmans&label=Profile%20views&color=03a9f4&style=flat-square" alt="catchatchatmans" /> 
 </p>
